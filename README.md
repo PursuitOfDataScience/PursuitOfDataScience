@@ -11,4 +11,12 @@ I turn my data science workflow into R packages, and I use my R packages to enha
 - {[ggDoubleHeat](https://github.com/PursuitOfDataScience/ggDoubleHeat)} - A heatmap-like visualization tool
 - {[worlddatajoin](https://github.com/PursuitOfDataScience/worlddatajoin)} - Join 'WDI', 'countrycode', and the World Map Together
 
-And many more to come!
+And many more packages to come!
+
+### Data Science Fun
+
+I participate the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project weekly by visualizing the data and then tweeting
+the work. You can check out the code at {[TidyTuesdayWork](https://github.com/PursuitOfDataScience/TidyTuesdayWork)} or you can 
+go to my [Twitter](https://twitter.com/PursuitOfDS) to see the visualizations made by using ggplot2. 
+
+Also, I do blog my data analysis and post it on my website. You can check it out [here](https://youzhi.netlify.app/).
