@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**PursuitOfDataScience/PursuitOfDataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. in Data Science. R package developer.
 
-Here are some ideas to get you started:
+I turn my data science workflow into R packages, and I use my R packages to enhance my data science workflow. It is a coherent cycle. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Packages and Featured Software
+
+- {[tidyEmoji](https://github.com/PursuitOfDataScience/tidyEmoji)} - Discovers Emoji from Text
+- {[ggchangepoint](https://github.com/PursuitOfDataScience/ggchangepoint)} - Combines Changepoint Analysis with 'ggplot2'
+- {[ggDoubleHeat](https://github.com/PursuitOfDataScience/ggDoubleHeat)} - A heatmap-like visualization tool
+- {[worlddatajoin](https://github.com/PursuitOfDataScience/worlddatajoin)} - Join 'WDI', 'countrycode', and the World Map Together
+
+And many more to come!
