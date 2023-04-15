@@ -1,6 +1,14 @@
-### Hi there 👋
+### Intro
 
-Ph.D. in Data Science. R package developer.
+- Data Scientist 
+
+- Avid R Educator 
+
+- Computational Scientist
+
+- R & Python Peacemaker
+
+- All @ University of Chicago
 
 I turn my data science workflow into R packages, and I use my R packages to enhance my data science workflow. It is a coherent cycle. 
 
@@ -13,7 +21,7 @@ I turn my data science workflow into R packages, and I use my R packages to enha
 
 And many more packages to come!
 
-### Data Science Fun
+### Data Science Interaction
 
 I participate the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project weekly by visualizing the data and then tweeting
 the work. You can check out the code at {[TidyTuesdayWork](https://github.com/PursuitOfDataScience/TidyTuesdayWork)} or you can 
