@@ -2,7 +2,7 @@
 
 - Data Scientist 
 
-- Avid R Educator 
+- Avid R Preceptor 
 
 - Computational Scientist
 
@@ -21,10 +21,10 @@ I turn my data science workflow into R packages, and I use my R packages to enha
 
 And many more packages to come!
 
-### Data Science Interaction
+### R for Data Science Interaction
 
 I participate the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project weekly by visualizing the data and then tweeting
-the work. You can check out the code at {[TidyTuesdayWork](https://github.com/PursuitOfDataScience/TidyTuesdayWork)} or you can 
-go to my [Twitter](https://twitter.com/PursuitOfDS) to see the visualizations made by using ggplot2. 
+the visualizations. You can check out the code at {[TidyTuesdayWork](https://github.com/PursuitOfDataScience/TidyTuesdayWork)} and view
+the visualizations at my [Twitter](https://twitter.com/PursuitOfDS), where I showcase them. 
 
-Also, I do blog my data analysis and post it on my website. You can check it out [here](https://youzhi.netlify.app/).
+Also, I do write data science blogs and post them on my website. You can check them out [here](https://youzhi.netlify.app/).
