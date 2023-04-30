@@ -1,5 +1,7 @@
 ### Intro
 
+- UChicago Scholar
+
 - Data Scientist 
 
 - Avid R Preceptor 
@@ -8,7 +10,6 @@
 
 - R & Python Peacemaker
 
-- All @ University of Chicago
 
 I turn my data science workflow into R packages, and I use my R packages to enhance my data science workflow. It is a coherent cycle. 
 
