@@ -1,6 +1,8 @@
 ### Intro
 
-- UChicago Scholar
+- Scholar @ UChicago
+
+- Research Fellow @ JPMorgan Chase
 
 - Data Scientist 
 
