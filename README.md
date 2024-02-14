@@ -1,14 +1,12 @@
 ### Intro
 
-- Scholar @ UChicago
+- Computational Scientist @ UChicago
 
 - Research Fellow @ JPMorgan Chase
 
-- Data Scientist 
+- Data Science Ph.D. 
 
 - Avid R Preceptor 
-
-- Computational Scientist
 
 - R & Python Peacemaker
 
