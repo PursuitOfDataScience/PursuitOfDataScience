@@ -1,14 +1,14 @@
 ### Intro
 
-- Computational Scientist @ UChicago
+- Computational Scientist @ Chicago Booth
 
 - Research Fellow @ JPMorgan Chase
 
-- Data Science Ph.D. 
+- ML & DL Practitioner 
 
-- Avid R Preceptor 
+- GPU Computing Enthusiast
 
-- R & Python Peacemaker
+- Data Scientist
 
 
 I turn my data science workflow into R packages, and I use my R packages to enhance my data science workflow. It is a coherent cycle. 
