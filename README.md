@@ -6,7 +6,7 @@
 
 - ML & DL Practitioner 
 
-- GPU Computing Enthusiast
+- 🤗LLMs & GPU Computing Enthusiast
 
 - Data Scientist
 
