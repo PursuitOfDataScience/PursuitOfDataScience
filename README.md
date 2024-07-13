@@ -8,7 +8,7 @@
 
 - 🤗LLMs & GPU Computing Enthusiast
 
-- Data Scientist
+- AI & Data Engineer
 
 
 I turn my data science workflow into R packages, and I use my R packages to enhance my data science workflow. It is a coherent cycle. 
